@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a79d6063-a82c-4794-9b06-1eddfa868b69/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/GREEWAVERS-API",
+    "appService.deploySubpath": "."
+}
